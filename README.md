@@ -1,3 +1,5 @@
+TERMINAL BLOCK PUZZLE GAME
+
 Key Features:
 - Vibrant Terminal Graphics: Utilizes ANSI escape codes to render brightly colored, solid-block puzzle pieces directly in the console.
 - Dynamic Shape Manipulation: Players can rotate pieces in precise 90-degree increments.
