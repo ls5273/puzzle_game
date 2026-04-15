@@ -1,7 +1,7 @@
 TERMINAL BLOCK PUZZLE GAME
 
 Overview:
-Terminal Block Puzzle is an interactive, command-line puzzle game built entirely in Python. Players are challenged to fit a variety of uniquely colored shapes onto a 6x6 grid. The objective is to maximize your score by filling as many open tiles as possible while navigating around randomized obstacle blocks.
+- Terminal Block Puzzle is an interactive, command-line puzzle game built entirely in Python. Players are challenged to fit a variety of uniquely colored shapes onto a 6x6 grid. The objective is to maximize your score by filling as many open tiles as possible while navigating around randomized obstacle blocks.
 
 Key Features:
 - Vibrant Terminal Graphics: Utilizes ANSI escape codes to render brightly colored, solid-block puzzle pieces directly in the console.
